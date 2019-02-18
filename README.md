@@ -1,7 +1,7 @@
 # Strong-password-generator
 
 
-The code of this programe maybe come in future.
+The code of this programe maybe come in the future.
 
 I've created a programe which you can generate your strong password to for example your social media like facebook.
 
